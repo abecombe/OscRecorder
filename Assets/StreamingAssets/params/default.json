@@ -1,0 +1,10 @@
+{
+    "LoadFolderPath": "C:\\",
+    "OscReceivePort": 6666,
+    "OscReceivePath": "/point",
+    "OscTransmitIp": "127.0.0.1",
+    "OscTransmitPort": 6666,
+    "OscTransmitPath": "/point",
+    "RecordingMaximumTime": 60.0,
+    "RecordingMaximumDataSize": 1000.0
+}
